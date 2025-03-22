@@ -10,7 +10,7 @@ Hi, I’m Alex Alcala (Lobo/GrayWolf)
 - GitHub: @Graywolf9
 - GitLab: @GrayWolf9
 - Twitter: @A13X_GrayWolf
-- Mastodon: [[https://mastodon.social/@graywolf9]@graywolf9@mastodon.social]
+- Mastodon: [[https://mastodon.social/@graywolf9][@graywolf9@mastodon.social]]
 - Matrix: @graywolf:mozilla.org
 
 * Profile
