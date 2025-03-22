@@ -1,8 +1,51 @@
-- 👋 Hi, I’m Alex Alcala (Lobo/GrayWolf)
-- 👀 I’m interested in develop
-- 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on Open Source Software
-- 📫 How to reach me [[https://mastodon.social/@graywolf9][Mastodon]]
+#+TITLE: Manuel Alejandro Urbano Alcalá
+#+DESCRIPTION: Curriculum Vitae
+#+AUTHOR: Alex Alcalá (GrayWolf)
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil ^:nil
 
- # Graywolf9/Graywolf9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- # You can click the Preview link to take a look at your changes.
+Hi, I’m Alex Alcala (Lobo/GrayWolf)
+
+* Social
+- GitHub: @Graywolf9
+- GitLab: @GrayWolf9
+- Twitter: @A13X_GrayWolf
+- Mastodon: [[https://mastodon.social/@graywolf9]@graywolf9@mastodon.social]
+- Matrix: @graywolf:mozilla.org
+
+* Profile
+  Entusiasta del software libre
+** Objetivos
+  -  Desarrollar mis habilidades y aportar mi experiencia a la organización
+  - Profundizar mis conocimientos sobre las nuevas tecnologías
+
+* Experience
+** Jefe de apoyo técnico
+   Coordinación de Desarrollo Académico, UdeG | 2016 - Now
+-  Desarrollo y mantenimiento de páginas web
+-  Desarrollo y mantenimiento de sistemas web
+-  Adminsitrador del servidor de la coordinación
+-  Encargado de la presencia en línea y de actualizar las plataformas sociales
+ 
+** Técnico de coordinación
+   Posgrados CUCEA, UdeG | 2015 - 2016
+-  Desarrollo y mantenimiento de proyectos de tecnologías
+-  Desarrollo y pruebas de nuevas tecnologías
+ 
+** Desarrollador Web
+   Coordinación de Innovación Educativa y Pregrado, UdeG | 2014 - 2015
+-  Desarrollo y mantenimiento de páginas web
+-  Desarrollo de webapps
+ 
+* Education
+** Universidad de Guadalajara
+- Licenciatura en Sistemas de Información - 2015
+- Técnico profesional en informática - 2012
+    
+* Hobbies
+-  Mimebro del equipo de MDN Docs español
+-  Desarrollo de aplicaciónes/scripts
+-  Docekr
+-  FOSS
+-  Aprender nuevas tecnologías
+
