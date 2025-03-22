@@ -4,48 +4,62 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+OPTIONS: num:nil ^:nil
 
-Hi, I’m Alex Alcala (Lobo/GrayWolf)
+¡Hola!, Soy Alex Alcala (Lobo/GrayWolf)
+
+* Perfil
+
+  Desarrollador y entusiasta del software libre
+  
+  Miembro de [[https://tlamaki.mx][Tlamaki, Comunidad de Software Libre de Guadalajara]]
+
+  Mimebro de [[https://developer.mozilla.org][Mozilla Developer Network]]
 
 * Social
-- GitHub: @Graywolf9
-- GitLab: @GrayWolf9
-- Twitter: @A13X_GrayWolf
-- Mastodon: [[https://mastodon.social/@graywolf9][@graywolf9@mastodon.social]]
+
+- GitHub: @Graywolf9 / GitLab: @GrayWolf9
+- Twitter (X): @A13X_GrayWolf / Mastodon: [[https://mastodon.social/@graywolf9][@graywolf9@mastodon.social]]
 - Matrix: @graywolf:mozilla.org
 
-* Profile
-  Entusiasta del software libre
 ** Objetivos
-  -  Desarrollar mis habilidades y aportar mi experiencia a la organización
-  - Profundizar mis conocimientos sobre las nuevas tecnologías
 
-* Experience
+  - Desarrollar mis habilidades y aportar mi experiencia.
+  - Profundizar mis conocimientos sobre las nuevas tecnologías.
+
+* Experiencia
+
 ** Jefe de apoyo técnico
+
    Coordinación de Desarrollo Académico, UdeG | 2016 - Now
+
 -  Desarrollo y mantenimiento de páginas web
 -  Desarrollo y mantenimiento de sistemas web
 -  Adminsitrador del servidor de la coordinación
 -  Encargado de la presencia en línea y de actualizar las plataformas sociales
  
 ** Técnico de coordinación
+
    Posgrados CUCEA, UdeG | 2015 - 2016
+
 -  Desarrollo y mantenimiento de proyectos de tecnologías
 -  Desarrollo y pruebas de nuevas tecnologías
  
 ** Desarrollador Web
+
    Coordinación de Innovación Educativa y Pregrado, UdeG | 2014 - 2015
+
 -  Desarrollo y mantenimiento de páginas web
 -  Desarrollo de webapps
  
-* Education
+* Educación
+
 ** Universidad de Guadalajara
+
 - Licenciatura en Sistemas de Información - 2015
 - Técnico profesional en informática - 2012
     
 * Hobbies
--  Mimebro del equipo de MDN Docs español
+
 -  Desarrollo de aplicaciónes/scripts
--  Docekr
+-  Contenedores (Docker/podman)
 -  FOSS
 -  Aprender nuevas tecnologías
-
